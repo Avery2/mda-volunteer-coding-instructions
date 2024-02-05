@@ -1,6 +1,6 @@
 # mda-volunteer-coding-instructions
 
-General instructions.
+General instructions. Edit files in `.tutorial` to edit.
 
 Tutorial will go through sequentially.
 
