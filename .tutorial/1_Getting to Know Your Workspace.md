@@ -20,7 +20,8 @@ Ready to create something amazing? Let's dive in! 🌊
 ## How to view your files
 
 ![Google Chrome-test - Replit-2024-02-07-001908@2x](https://github.com/Avery2/mda-volunteer-coding-instructions/assets/53503018/8dee327d-3eaf-4557-ab0c-582e1c74e06f)
-![Google Chrome-test - Replit-2024-02-07-001910@2x](https://github.com/Avery2/mda-volunteer-coding-instructions/assets/53503018/085d86b7-6713-4776-a54e-1800f091b51c)
+
+![Google Chrome-test - Replit-2024-02-07-001912@2x](https://github.com/Avery2/mda-volunteer-coding-instructions/assets/53503018/10bf6e94-238a-446a-98d9-63684385366f)
 
 
 ## Gentle Reminder
