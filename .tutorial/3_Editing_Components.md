@@ -14,3 +14,5 @@ You can show posts from Instagram, TikTok, and YouTube using `InstagramWrapper.t
 To display a video, replace `[TODO: Video URL]` with the link to the video you want to show.
 ## Creative Use
 Think of a theme for your app and choose videos or images that match. For example, if your app is about space, find cool space videos.
+
+**Try It Yourself**: Find the 'Giphy' component in the library, drag it into your workspace, and paste a fun GIF link into it!

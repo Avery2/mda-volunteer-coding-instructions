@@ -10,6 +10,10 @@ Components are like building blocks of an app. Each has a specific function, lik
 ## App Structure
 Our app has three main sections, each in a separate tab. You'll start with learning in Tab1, see examples in Tab2, and create your own app in Tab3.
 
+In our online coding environment, you'll find three tabs in the file structure: src/tabs/Tab1.tsx for tutorials, src/tabs/Tab2.tsx for examples, and src/tabs/Tab3.tsx for your creation. You can edit the code directly and see the results instantly!
+
+Ready to create something amazing? Let's dive in! 🌊
+
 # Step 3: Create Your Accordion
 
 ## Purpose
