@@ -44,3 +44,22 @@ Here's a glimpse of the components at your disposal:
 - YouTubeWrapper.tsx
 
 This array of components might seem daunting at first glance, but remember, you're not expected to master them all at once. Our approach is to introduce you to patterns common to these components, simplifying the learning process. You're free to select the ones that best fit your project, and we're here to guide you through using them effectively.
+
+# Step 2: Editing Components
+
+## Selecting a Component
+In `Tab1.tsx`, you can select a component to edit. For example, to work with the Button, open `ButtonWrapper.tsx`.
+## Code Snippets
+Each component has a code snippet. For the Button, it might look like `<ButtonWrapper text="[TODO: Button Text]" onClick="[TODO: Action]"/>`.
+## Try It Yourself
+Change the `[TODO: Button Text]` to something fun like 'Click Me!' and see what happens when you view the app.
+
+
+## Integration
+You can show posts from Instagram, TikTok, and YouTube using `InstagramWrapper.tsx`, `TikTokWrapper.tsx`, and `YouTubeWrapper.tsx`.
+## Parameters
+To display a video, replace `[TODO: Video URL]` with the link to the video you want to show.
+## Creative Use
+Think of a theme for your app and choose videos or images that match. For example, if your app is about space, find cool space videos.
+
+**Try It Yourself**: Find the 'Giphy' component in the library, drag it into your workspace, and paste a fun GIF link into it!
