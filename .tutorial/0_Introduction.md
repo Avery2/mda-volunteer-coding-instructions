@@ -14,13 +14,6 @@ Imagine you're in charge of creating a webpage for your school's basketball team
 - Introduction to web languages: HTML, CSS, and JavaScript.
 - How to navigate and use the online coding environment.
 
-### Features of Your Webpage:
-
-TODO: Have this be accurate -- not GPT hallucinated
-
-1. **Media Display**: Show off awesome dunks, science experiments, or cute pets with videos and photos from Instagram, TikTok, or YouTube.
-2. **Accordion Component**: This is a fancy way of saying "a section that can expand and collapse" – perfect for FAQs, game schedules, or pet care tips.
-3. **Calendar & Events**: Update everyone on practice times, club meetings, and the pet show lineup.
 ### Before We Start:
 
 - As we move through the steps, remember that moving at your own pace is okay. Feel free to experiment and try different things. Feel free to break your webpage! We can help you fix it! 🔨
