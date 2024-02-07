@@ -8,10 +8,10 @@ Instead of drawing on paper, you can create a digital sketch of your app's layou
 
 2. **Open the `.draw` File**: Once created, open your `.draw` file. You should see a blank canvas or a drawing interface.
 
-3. **Use Drawing Tools**: Utilize the drawing tools provided in the environment. You can draw rectangles to represent components like calendars or social media feeds, add text to label each part, and use lines to connect components showing the flow of your app.
+3. **Use Drawing Tools**: Use the drawing tools provided in the environment. You can draw rectangles to represent components like calendars or social media feeds, add text to label each part, and use lines to connect components and show the flow of your app.
 
-4. **Design Your Layout**: Place each component where you think it should go on your app's screen. For example, you might draw a large rectangle at the top for a carousel of images, a smaller square below for a calendar, and a few more rectangles for social media feeds.
+4. **Design Your Layout**: Place each component on your app's screen where you think it should go. For example, you might draw a large rectangle at the top for a carousel of images, a smaller square below a calendar, and a few more rectangles for social media feeds.
 
-5. **Save Your Sketch**: Make sure to save your `.draw` file once you're satisfied with your sketch. This will be your digital blueprint as you build your app in the creation tab (`Tab3.tsx`).
+5. **Save Your Sketch**: Save your `.draw` file once you are satisfied with your sketch. As you build your app in the creation tab (Tab3.tsx), this will be your digital blueprint.
 
-Creating a `.draw` file for your sketch allows you to easily modify your layout as your ideas evolve and keeps a digital record of your planning process.
+Creating a `.draw` file for your sketch allows you to easily modify your layout as your ideas evolve and keep a digital record of your planning process.
